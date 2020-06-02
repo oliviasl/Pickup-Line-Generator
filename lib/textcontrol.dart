@@ -116,5 +116,10 @@ class _TextControlState extends State<TextControl> {
     'I’ve been wondering, do your lips taste as good as they look?',
     'If you were my homework, i\'d do you everyday.',
     'Do you play soccer? Because you\'re a keeper!',
+    'Your hand looks heavy, let me hold it for you.',
+    'Are you Siri? Because you autocomplete me!',
+    'Are you a 45-degree angle? Because you\'re a cutie!',
+    'I may not be a genie, but I can make your dreams come true.',
+    'Do you have a map? I keep getting lost in your eyes.',
   ];
 }
