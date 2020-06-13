@@ -99,7 +99,6 @@ class _TextControlState extends State<TextControl> {
     'Do you know CPR? Because you are taking my breath away!',
     'Did you invent the airplane? Because you seem Wright for me.',
     'Do you like Star Wars? Because Yoda only one for me!',
-    'We\'re not socks, but I think we\'d make a great pair.',
     'Somebody better call God, because he\'s missing an angel.',
     'You\'re so beautiful that you made me forget my pickup line.',
     'Roses are red, my face is too... that only happens when I see you.',
@@ -121,5 +120,6 @@ class _TextControlState extends State<TextControl> {
     'Are you a 45-degree angle? Because you\'re a cutie!',
     'I may not be a genie, but I can make your dreams come true.',
     'Do you have a map? I keep getting lost in your eyes.',
+    'Are you boba? Cause you keep me up at night.',
   ];
 }
