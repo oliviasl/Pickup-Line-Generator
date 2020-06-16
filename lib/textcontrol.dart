@@ -123,5 +123,6 @@ class _TextControlState extends State<TextControl> {
     'Are you boba? Cause you keep me up at night.',
     'I\'d like to study astronomy, but instead of looking at the heavens I\'d like to look at you.',
     'Did your licence get suspended for driving all these guys crazy?',
+    'If you were a flower you’d be a damnnn-delion.',
   ];
 }
