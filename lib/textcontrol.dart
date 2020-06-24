@@ -125,5 +125,6 @@ class _TextControlState extends State<TextControl> {
     'Did your licence get suspended for driving all these guys crazy?',
     'If you were a flower you’d be a damnnn-delion.',
     'Are you a cat because I’m feline a connection between us.',
+    'Are you lost ma\'am? Because heaven is a long way from here.',
   ];
 }
